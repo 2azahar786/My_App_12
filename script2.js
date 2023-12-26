@@ -33,7 +33,11 @@ for (i = 0; i < tt; i++) {
     span.setAttribute("class", "color")
     span.textContent = color;
     spanTwo.textContent = size
+
+    
     // console.log(liOne, img, br, span, spanTwo);
+
+
     ul.setAttribute("class", "item-list")
     liOne.append(img, br, span, spanTwo)
     input.type = "number"
