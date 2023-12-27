@@ -148,7 +148,7 @@ const small = () => {
         }
     }
 
-}
+};
 
 function medium() {
     let size = document.getElementsByClassName("size")
@@ -171,7 +171,7 @@ function medium() {
             console.log(y)
         }
     }
-}
+};
 
 
 function large() {
@@ -195,7 +195,7 @@ function large() {
             console.log(y)
         }
     }
-}
+};
 
 function Elarge() {
     let size = document.getElementsByClassName("size")
@@ -219,7 +219,7 @@ function Elarge() {
         }
     }
 
-}
+};
 
 function EElarge() {
     let size = document.getElementsByClassName("size")
@@ -241,9 +241,9 @@ function EElarge() {
             // document.getElementById("cart13").setAttribute("class", "show")
             console.log(y)
         }
-    }
+    };
 
-}
+};
 
 
 
