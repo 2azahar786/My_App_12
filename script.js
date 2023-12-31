@@ -150,6 +150,7 @@ const small = () => {
 
 };
 
+
 function medium() {
     let size = document.getElementsByClassName("size")
     // size.innerText

@@ -35,6 +35,7 @@ for (i = 0; i < tt; i++) {
     spanTwo.textContent = size
 
     
+    
     // console.log(liOne, img, br, span, spanTwo);
 
 
